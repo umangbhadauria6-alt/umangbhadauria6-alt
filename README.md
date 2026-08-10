@@ -8,3 +8,5 @@ I'm Umang — a B.Com first-year student learning to work with data using Python
 - 📊 Interests: Data analysis, business ethics, corporate governance
 - 🤝 Looking to collaborate on: small data cleaning & visualization projects
 - 📫 How to reach me: (add your email or LinkedIn here if you want)
+- ## 📊 Projects
+- [Superstore Sales Analysis](paste-your-copied-link-here) — cleaned & visualized retail sales data using Python, Pandas & Matplotlib
