@@ -10,4 +10,4 @@ I'm Umang — a B.Com first-year student learning to work with data using Python
 - 📫 How to reach me: (add your email or LinkedIn here if you want)
 - ## 📊 Projects
 - [Superstore Sales Analysis]((https://github.com/umangbhadauria6-alt/umangbhadauria6-alt/blob/main/superstore-sales-analysis)) — cleaned & visualized retail sales data using Python, Pandas & Matplotlib
-- [Netflix Content Analysis](paste-link-here) — analyzed Netflix's movie/TV show trends using Python, Pandas & Matplotlib
+- [Netflix Content Analysis]([paste-link-here](https://github.com/umangbhadauria6-alt/umangbhadauria6-alt/blob/main/Netflix%20analysis.ipynb)) — analyzed Netflix's movie/TV show trends using Python, Pandas & Matplotlib
